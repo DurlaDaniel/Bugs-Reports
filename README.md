@@ -36,7 +36,7 @@ Username: testbug1@mail.com  , password testbug123
 
 **Status**
 
-New, in progress, done, reopen
+New
 
 .........................................
 
@@ -73,6 +73,39 @@ Username: testbug2@mail.com , password testbug456
 
 **Status**
 
-New, in progress, done, reopen
+New
 
+Priority & Severity
+
+.........................................
+
+**Priority & Severity**
+
+P3 – normal
+
+**Title**
+
+Copyright is not updated
+
+**Description**
+
+The copyright is not updated in the bottom side of the page 
+
+**Reproduce steps**
+
+1.	Go on to the website
+2.	Scroll down
+
+**Expected result**
+
+Copyright should be updated
+
+**Actual result**
+
+Copyright is not updated
+
+
+**Status**
+
+New 
 
