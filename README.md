@@ -109,3 +109,35 @@ Copyright is not updated
 
 New 
 
+.........................................
+
+**Priority & Severity**
+
+P1 – high 
+
+**Title**
+
+Translate function is not working properly
+
+**Description**
+
+When the language is set to Romanian , the text is not translated correctly 
+
+**Reproduce steps**
+
+1.	Go on to the website
+2.	Select Romanian Language
+
+**Expected result**
+
+The text should be translated correctly 
+
+**Actual result**
+
+The text is not translated properly 
+
+**Status**
+
+New 
+
+
